@@ -1,5 +1,5 @@
 # Python
-Python for Data Science &amp; Machine Learning
+Python for Data Science &amp; Machine Learning. In this repo you'll learn how to use NumPy, Pandas, Seaborn, Plotly, Scikit-Learn, Machine Learning, Tensorflow, and more!
 
 # Introduction to Anaconda
 
