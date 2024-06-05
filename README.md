@@ -71,6 +71,8 @@ You can install a different version of Python or multiple packages like so:
 conda create --name datascience python=3.8 numpy pandas scikit-learn jupyter
 ```
 
+In the Anaconda terminal, `(base)` indicates that you are currently in the default Anaconda environment also known as root, while `(datascience)` shows that you have activated a custom environment named `datascience`. Environments allow you to manage dependencies and packages separately for different projects.
 
+![image](https://github.com/jvick1/Python/assets/32043066/cdaf8d5e-dce0-4df0-80cd-54c5b6fbab33)
 
 
