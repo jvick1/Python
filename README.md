@@ -1,5 +1,6 @@
-# Python
-Python for Data Science &amp; Machine Learning. In this repo you'll learn how to use NumPy, Pandas, Seaborn, Plotly, Scikit-Learn, Machine Learning, Tensorflow, and more!
+# Python for Data Science &amp; Machine Learning 
+
+In this repo you'll learn how to use NumPy, Pandas, Seaborn, Plotly, Scikit-Learn, Machine Learning, Tensorflow, and more!
 
 # Introduction to Anaconda
 
@@ -21,7 +22,7 @@ TLDR; Anaconda simplifies package/env management and deployment, making it an es
   - Next
   - Agree to terms
   - Install for just me
-  - then check add Anaconda to my PATH env & Register Anaconda as default (if you want)
+  - Check add Anaconda to my PATH env & Register Anaconda as default (if you want)
 
 ## Step 3: Verify Installation
 
@@ -31,7 +32,7 @@ After installation, open a terminal (or Anaconda Prompt on Windows) and run:
 conda --version
 ```
 
-or search for 'Anaconda' in your search bar. You should see the Navigator and the terminal. 
+Or search for 'Anaconda' in your search bar. You should see the Navigator and the terminal. 
 
 ![image](https://github.com/jvick1/Python/assets/32043066/04e3b3ea-dd9d-4376-902c-2080d0c7b4a7)
 
@@ -50,7 +51,7 @@ conda create --name datascience numpy
 conda activate datascience
 ```
 
-- testing your env - A new browser window should open, allowing you to start working on your data science projects. Just make sure you are in the right working directory. 
+- Testing your env - A new browser window should open, allowing you to start working on your data science projects. Just make sure you are in the right working directory. 
 
 ```sh
 jupyter notebook
