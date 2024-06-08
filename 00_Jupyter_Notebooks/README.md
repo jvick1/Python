@@ -33,8 +33,6 @@ This will open your notebook in a browser. Chrome or Brave often provide the bes
 
 A kernel is an instance of Python that runs your code in a Jupyter Notebook, handling computations and executing code cells.
 
-![image](https://github.com/jvick1/Python/assets/32043066/c07a9240-d1c6-49a2-a362-d3283572b00f) 
-
 Once you select your kernel we now have our blank notebook!
 
 ![image](https://github.com/jvick1/Python/assets/32043066/a4dbbc21-7cb4-4e8a-8732-9a7c1f14fcdd)
