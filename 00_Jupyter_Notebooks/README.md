@@ -43,5 +43,51 @@ While here let's rename to something like `intro` you can do so by clicking the 
 
 # Jupyter Notebook Guide
 
+## Cells
 
+Jupyter Notebooks are organized into cells. There are three main types of cells:
 
+- **Code Cells:** Used to write and execute code. You can run the code by pressing Shift + Enter or clicking the "Run" button.
+- **Markdown Cells:** Used for writing formatted text using Markdown syntax. Markdown allows you to include headers, lists, links, images, and more.
+- **Raw Cells:** Used for writing raw text that will not be formatted or executed.
+
+## Basic Usage 
+
+- **Create a Cell:** Click on an existing cell and press `A` to add a cell above or `B` for below.
+- **Running a Cell:** Click the "Run" button or press `Shift + Enter` to execute code or render Markdown
+
+## Managing the Kernel 
+
+- **Restart Kernel:** Click "Kernel" in the menu and select "Restart". This is useful if your code is not running as expected or if you want to clear all variables.
+- **Change Kernel:** Click "Kernel" in the menu and select "Change Kernel" to switch to a different programming language or environment.
+
+## Working with Environments 
+
+Create an Environment:
+```sh
+conda create --name myenv python=3.8
+```
+Activate an Environment:
+```sh
+conda activate myenv
+```
+Install Packages in an Environment:
+```sh
+conda install numpy pandas
+```
+
+## Using Markdown Cells
+
+- Create a Markdown Cell: Change the cell type to "Markdown" from the dropdown menu or press M while in Command mode (press Esc to enter Command mode).
+- Write Markdown:
+```markdown
+# This is a header
+Here is some **bold text** and some *italic text*.
+- Bullet point 1
+- Bullet point 2
+```
+
+# Example 
+
+Now let's try some simple outputs like strings or addition:
+![image](https://github.com/jvick1/Python/assets/32043066/cba5a3dc-2a65-4981-8b52-cd643b17c4f7)
