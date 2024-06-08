@@ -24,3 +24,18 @@ Key commands include:
 In the example below I change my drive, cd into `E:\Code`, print the directory, cd into `Python`, create a new folder, cd into that, and launch my Jupyter Notebook from there. 
 
 ![image](https://github.com/jvick1/Python/assets/32043066/b772292b-5a73-497d-9335-31131fa838f8)
+
+# Creating a new Jupyter Notebook
+
+This will open your notebook in a browser. Chrome or Brave often provide the best compatibility. In the top right of your screen, click to create a new notebook.
+
+![image](https://github.com/jvick1/Python/assets/32043066/cda8d452-ee19-488c-8e63-89c7d178d5f1)
+
+A kernel is an instance of Python that runs your code in a Jupyter Notebook, handling computations and executing code cells.
+
+![image](https://github.com/jvick1/Python/assets/32043066/c07a9240-d1c6-49a2-a362-d3283572b00f) 
+
+Once you select your kernel we now have our blank notebook!
+
+![image](https://github.com/jvick1/Python/assets/32043066/a4dbbc21-7cb4-4e8a-8732-9a7c1f14fcdd)
+
