@@ -13,7 +13,7 @@ Each chapter is organized with numbered sections, and within each section, you'l
 
 ## What You'll learn in `02_Intro_to_Conditionals.ipynb`
 
-This is the second section of the "Introduction to Python" repository. In this section, we cover more advanced topics such as **dictionaries, sets, tuples, booleans, and, most importantly, conditional statements**. These concepts build on the fundamentals of lists and strings that we learned in Section 1.
+This is the second section of the "Introduction to Python" repository. In this section, we cover more advanced topics such as **dictionaries**, **sets**, **tuples**, **booleans**, and, most importantly, **conditional statements**. These concepts build on the fundamentals of lists and strings that we learned in Section 1.
 
 
 
