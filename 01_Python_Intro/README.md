@@ -22,3 +22,7 @@ We will cover **for** and **while loops**, the **range** function, **list compre
 ## What You'll learn in `04_Intro_to_Filter_and_Methods.ipynb`
 
 We will cover lambda expressions, the `map` and `filter` functions, and methods you can use on common data type objects.
+
+## What You'll learn in `05_Practice_Problems.ipynb`
+
+Look at some practice problems.
