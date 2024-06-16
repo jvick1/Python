@@ -16,4 +16,6 @@ Each chapter is organized with numbered sections, and within each section, you'l
 This is the second section of the "Introduction to Python" repository. In this section, we cover more advanced topics such as **dictionaries**, **sets**, **tuples**, **booleans**, and, most importantly, **conditional statements**. These concepts build on the fundamentals of lists and strings that we learned in Section 1.
 
 
+## What You'll learn in `03_Intro_to_Loops_and_Functions.ipynb`
 
+We will cover **for** and **while loops**, the **range** function, **list comprehensions**, and creating **functions** using `def`.
