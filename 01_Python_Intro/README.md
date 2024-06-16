@@ -11,11 +11,9 @@ Understanding these basic operations is crucial for any programming task in Pyth
 
 Each chapter is organized with numbered sections, and within each section, you'll find detailed explanations and examples of various operations.
 
-![image](https://github.com/jvick1/Python/assets/32043066/4bc2632f-753a-458b-938b-b0c0e11724ac)
-
 ## What You'll learn in `02_Intro_to_Conditionals.ipynb`
 
 This is the second section of the "Introduction to Python" repository. In this section, we cover more advanced topics such as dictionaries, sets, tuples, booleans, and, most importantly, conditional statements. These concepts build on the fundamentals of lists and strings that we learned in Section 1.
 
-![image](https://github.com/jvick1/Python/assets/32043066/4480dca1-e1c2-4b0c-bc7b-e0e54f7b345b)
+
 
